@@ -6,7 +6,7 @@ This project intends to predict the effect of vaccination rates on the dynamics 
 
 ### Data Gathering:
 
-- Obtain data from Google data sources on COVID-19, such as Google COVID-19 Mobility Reports, Google Trends, and Google COVID-19 Public Forecasts.
+- Obtain data from Google data sources on COVID-19, such as Google COVID-19 Mobility Reports, Google Trends, and [Google COVID-19 COVID-19 Open Data Repository](https://health.google.com/covid-19/open-data/).
 - Collect data from online data resources, such as government health agencies, research institutions, and publicly available datasets.
 - Ensure data includes information on coronavirus cases, vaccination rates, hospitalizations, deaths, decline rates, reproduction rates, and various countries including Nigeria,  South Africa, United States, United Kingdom, Canada, Australia, New Zealand, Germany, France, China, Saudi Arabia etc. The idea is to gather data for at least, two countries per continent.
 
