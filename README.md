@@ -20,7 +20,7 @@ This project intends to predict the effect of vaccination rates on the dynamics 
 
 - Analyze the dataset based on various factors, including hospitalization rate, death rate, decline rate, reproduction rate, and policies developed across the various regions.
 - Visualize data through graphs, charts, and maps to identify patterns and trends.
-- Calculate descriptive statistics to summarize key aspects of the spread of COVID-10.
+- Calculate descriptive statistics to summarize key aspects of the spread of COVID-19.
 
 ### Model Selection:
 
