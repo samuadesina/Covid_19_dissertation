@@ -26,7 +26,7 @@ This project intends to predict the effect of vaccination rates on the dynamics 
 
 - Determine the appropriate epidemiological model for the analysis, such as compartmental models (e.g., SIR, SEIR) or agent-based models.
 - Consider the strengths, limitations, and assumptions of different models.
-- Discuss the selected model and its justification with project supervisor, providing additional information on the model's theoretical foundations, equations, and parameters.
+- Discuss the selected model and its justification with you, I will be providing additional information on the model's theoretical foundations, equations, and parameters.
 
 ### Model Implementation:
 
