@@ -57,4 +57,4 @@ This project intends to predict the effect of vaccination rates on the dynamics 
 
 This section will account for chanllenges met during the implementation of this project.
 
-Contents on this plan is subject to change as I move forward on the project.
+Contents on this plan are subject to change as I move forward on the project.
